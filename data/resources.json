@@ -1,0 +1,21 @@
+{
+  "resources": {
+    "platforms": [
+      {
+        "name": "LearnWeb3",
+        "description": "Become a Web3 Developer for free! Lead the charge to new frontiers Become a next-gen developer Learn to harness next-gen technologies to build the bridges",
+        "url": "https://learnweb3.io"
+      },
+      {
+        "name": "Alchemy University",
+        "description": "Alchemy University is the ultimate ecosystem for learning how to build and interact with web3. Our goal is to teach you everything you need to know.",
+        "url": "https://university.alchemy.com"
+      },
+      {
+        "name": "CryptoZombies",
+        "description": "CryptoZombies is an interactive school that teaches you all things technical about blockchains. Learn to make smart contracts in Solidity or Libra by making your own crypto-collectibles game.",
+        "url": "https://cryptozombies.io"
+      }
+    ]
+  }
+}
