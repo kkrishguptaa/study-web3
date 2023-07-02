@@ -1,34 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![cover image](https://github.com/krishstwt/learning/assets/135469703/b7ddff77-f66c-46c8-a950-9922409516dc)
 
-## Getting Started
+# 📚 DAPP Study Resources
 
-First, run the development server:
+DAPP Study Resources aims to be the largest collection of resources to learn web3, we want to include every resource that one would need to make a great web3 application. Currently the datasource is open source contributions made into the repository's data files which will also act as a great entry contribution for newbies.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## 🚀 Check out deployed
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+[![deployed](https://github.com/krishstwt/learning/assets/135469703/9ff73f98-282c-49c0-867b-d031dc064d4e)](https://dapp-study-resources.vercel.app).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+[dapp-study-resources.vercel.app](https://dapp-study-resources.vercel.app) is the official deployed site
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## 💥 Run it locally
 
-To learn more about Next.js, take a look at the following resources:
+1. Install [Node.js](https://nodejs.org/en/)
+2. Install [Git](https://git-scm.com/downloads)
+3. Clone the repository: `git clone https://github.com/krishstwt/dapp-study-resources`
+4. Install dependencies `npm i -g yarn` `yarn install --frozen-lockfile`
+5. Run the app `yarn start`
+6. The app will be served at `localhost:3000`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## ORIGIN: Web3Apps Hackathon w/ MLH
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Inspiration
 
-## Deploy on Vercel
+Inspired by Futurepedia a list of all the cool AI Tools, I thought that we should have a extensive list of web3 learning resources as well.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### What It Does
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+It is a project that is meant to gain resources via Open Source Contributions to the `data/resources.json` file and then display them in a nice way, that will allow users to learn about various resources from it.
+
+### How We Built It
+
+It is built using a create-next-app template and then using the data from the `data/resources.json` file to display the resources.
+
+For the styling we've used TailwindCSS paired with ShadCN UI which itself brings in Radix UI.
+
+We also used GitHub for the open source contributions, release management, ticket management (future), deployment (CD via the vercel github integration) and version control. GitHub's Education Pack was extremely helpful with resources such as Copilot that were used extensively for productivity enhancement.
+
+We also used Porkbun for the domain name (daap.study) and Vercel for the deployment.
