@@ -2,11 +2,11 @@
 
 # 📚 DAPP Study Resources
 
-DAPP Study Resources aims to be the largest collection of resources to learn web3, we want to include every resource that one would need to make a great web3 application. Currently the datasource is open source contributions made into the repository's data files which will also act as a great entry contribution for newbies.
+DAPP Study Resources aims to be the largest collection of resources to learn web3, we want to include every resource that one would need to make a great web3 application. Currently, the datasource is open source contributions made into the repository's data files which will also act as a great entry contribution for newbies.
 
 ## 🚀 Check out deployed
 
-[![deployed](https://github.com/krishstwt/learning/assets/135469703/9ff73f98-282c-49c0-867b-d031dc064d4e)](https://dapp-study-resources.vercel.app).
+[![deployed](https://github.com/krishstwt/learning/assets/135469703/9ff73f98-282c-49c0-867b-d031dc064d4e)](https://dapp-study-resources.vercel.app)
 
 [dapp-study-resources.vercel.app](https://dapp-study-resources.vercel.app) is the official deployed site
 
@@ -24,7 +24,7 @@ DAPP Study Resources aims to be the largest collection of resources to learn web
 
 ### Inspiration
 
-Inspired by Futurepedia a list of all the cool AI Tools, I thought that we should have a extensive list of web3 learning resources as well.
+Inspired by Futurepedia a list of all the cool AI Tools, I thought that we should have an extensive list of web3 learning resources as well.
 
 ### What It Does
 
